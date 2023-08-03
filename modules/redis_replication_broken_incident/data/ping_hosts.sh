@@ -1,0 +1,3 @@
+ping ${MASTER_HOSTNAME}
+
+ping ${SLAVE_HOSTNAME}
